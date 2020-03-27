@@ -1,0 +1,15 @@
+.jumbotron {
+    text-align: center;
+    height: 20px;
+}
+
+.display-4 {
+    padding: auto;
+    margin-bottom: auto;
+}
+
+#search {
+    float: left;
+    width: 300px;
+    margin: 10px;
+}
