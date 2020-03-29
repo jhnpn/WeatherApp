@@ -1,15 +1,21 @@
 .jumbotron {
-    text-align: center;
     height: 20px;
 }
 
 .display-4 {
-    padding: auto;
-    margin-bottom: auto;
+    padding: 0;
+    margin-bottom: 0;
+    text-align: center;
 }
 
 #search {
     float: left;
     width: 300px;
     margin: 10px;
+}
+
+.weather-container {
+    float: left;
+    width: auto;
+    max-width: 600px;
 }
